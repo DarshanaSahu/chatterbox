@@ -6,7 +6,7 @@ In the terminal run command
 
 It runs the app on the browser [http://localhost:3000]
 
-Write the name of the series that you find details of in the textbox. 
+Write the name of the series that you want to find details of in the textbox. 
 Example - The Mentalist
 
-It will present you with genres, rating, plot etc. 
+It will present you with the genres, rating, plot etc. 
